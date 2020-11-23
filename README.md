@@ -14,13 +14,13 @@ The purpose of this project is to apply different machine learning techniques to
   
 -  SMOTE Oversampling
 
-  When looking at the SMOTE Oversampling the balanced accuracy score is 66.28%. The results for the classification report show that the precision for the high risk is .01 and the low risk is 1.00. The recall for the high risk ais .63 and the low risk recall was .69 both groups recall are good since they are both over .5. The specificity for the high risk is .69 and the low risk is .63. The f1 accuracy for the high risk is .02 and the low risk is .82. The geo accuracy for the high and low risk is .66. The iba accuracy for tthe high and low risk is also very similar at .44. The support for the high risk is 101 and the low risk is 17104.
+   When looking at the SMOTE Oversampling the balanced accuracy score is 66.28%. The results for the classification report show that the precision for the high risk is .01 and the low risk is 1.00. The recall for the high risk ais .63 and the low risk recall was .69 both groups recall are good since they are both over .5. The specificity for the high risk is .69 and the low risk is .63. The f1 accuracy for the high risk is .02 and the low risk is .82. The geo accuracy for the high and low risk is .66. The iba accuracy for tthe high and low risk is also very similar at .44. The support for the high risk is 101 and the low risk is 17104.
   
   [image1]()
   
 - Undersampling
  
-  The balanbced accuracy score for the undersampling model was 60.03%. The precision for the high risk was .01 and the low risk is 1.00. The recakk for the high risk was .67 and the low risk is .53. Both the recall for the high and low risk are good numbers since they are over .5. The specificity for the high risk was .53 and the low risk was .67. The f1 score for the high risk was .02 and the low risk was .69. The geo accuracy for the high and low risk are both .60. The iba accuracy for the high risk was .36 and the low risk was .35. Both the high and low risk had very similar iba accuracy. The support for the high risk was 101 and the low risk was 17104.
+   The balanbced accuracy score for the undersampling model was 60.03%. The precision for the high risk was .01 and the low risk is 1.00. The recakk for the high risk was .67 and the low risk is .53. Both the recall for the high and low risk are good numbers since they are over .5. The specificity for the high risk was .53 and the low risk was .67. The f1 score for the high risk was .02 and the low risk was .69. The geo accuracy for the high and low risk are both .60. The iba accuracy for the high risk was .36 and the low risk was .35. Both the high and low risk had very similar iba accuracy. The support for the high risk was 101 and the low risk was 17104.
   
   [image1]()
   
