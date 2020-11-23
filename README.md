@@ -38,4 +38,12 @@ The purpose of this project is to apply different machine learning techniques to
    
    [image1]()
  
- -  
+ -  Easy Ensemle AdaBoost Classifier
+    
+    The balanced_accuracy score was 90.89%. THe precision accuracy for the high risk group was .07 and the low risk was 1.00. The recal for the high risk was .87 and the low risk was .95. The recall for both groups are good since they are both over .5. The specificity for the hgih risk group was .95 and the low risk group was .87. The f1 accuracy for the high risk group was .13 and the low risk group was .97. The geo accuracy for both and highb are .91. The iba accuracy for the high risk was .82 and the low risk was .83. The support for the high risk group was 78 and the low risk group was 17127. 
+    
+    [image1]()
+    
+## Summary
+
+Overall each model provided good results, meaning that the each models balanced accuracy score was over 50%. The model with the highest balanced accuracy score was the Easy Ensemble AdaBoost Classifier. I would recommend uising the Easy Ensemble AdaBoost since the balanced accuracy score was 90% and the recall accuracy was the highest for both the high risk and low risk groups when comparing them to the other models.
