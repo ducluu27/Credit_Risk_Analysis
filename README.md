@@ -7,4 +7,5 @@ The purpose of this project is to apply different machine learning techniques to
 ## Resuilts
 
 - Smote Oversampling
-sadfsdf
+
+  sadfsdf
