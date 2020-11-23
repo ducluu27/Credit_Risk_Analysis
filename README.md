@@ -32,7 +32,7 @@ The purpose of this project is to apply different machine learning techniques to
    
  -  Balanced Random Forest Classifier
    
-   The balanced accuracy score for the balanced random forest classifier was 75.73%. The high risk precision was .02 and the low risk was 1.00. The recall for the high risk was .63 and the low risk was .89. Both recalls for the groups had a good score since they are both over .5. The specificity for the high risk was .89 and the low risk was .63. The f1 accuracy for the high risk was .05 and the low risk was .94. The geo accuracy for both high and low risk was .75. The iba accuracy for the high risk group was .54 and the low risk was .57. The support for the high risk was 78 and the low risk was 17127. The top features with the highest importance ratings when calculating credit risk was total_rec_prncp, total_rect_int, last_pymnt_amnt, total_pymnt, and total_pymnt_inv.
+    The balanced accuracy score for the balanced random forest classifier was 75.73%. The high risk precision was .02 and the low risk was 1.00. The recall for the high risk was .63 and the low risk was .89. Both recalls for the groups had a good score since they are both over .5. The specificity for the high risk was .89 and the low risk was .63. The f1 accuracy for the high risk was .05 and the low risk was .94. The geo accuracy for both high and low risk was .75. The iba accuracy for the high risk group was .54 and the low risk was .57. The support for the high risk was 78 and the low risk was 17127. The top features with the highest importance ratings when calculating credit risk was total_rec_prncp, total_rect_int, last_pymnt_amnt, total_pymnt, and total_pymnt_inv.
    
    [image1]()
    
